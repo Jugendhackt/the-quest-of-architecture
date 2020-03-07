@@ -5,15 +5,19 @@ body {
 
 a {
     font-size: 40px;
+    background-color: rgb(60, 0, 116);
+    color: rgb(136, 255, 245);
+    text-decoration: none;
+    padding: 5px;
+    margin: 13px;
+    display: block;
 }
 
 h2 {
     font-size: 40px;
 }
 
-body {
-    background-color: rgb(172, 255, 255);
-}
+
 
 h1 {
     color: rgb(129, 0, 129);
