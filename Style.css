@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "comfortaa";
+    src:url("Comfortaa-VariableFont_wght.ttf") ;
+}
+body {
+    text-align: center;
+    background-color: rgb(172, 255, 255);
+    font-family: comfortaa;
+}
+
+a {
+    font-size: 40px;
+    background-color: rgb(60, 0, 116);
+    color: rgb(136, 255, 245);
+    text-decoration: none;
+    padding: 5px;
+    margin: 13px;
+    display: block;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+
+
+h1 {
+    color: rgb(129, 0, 129);
+    font-size: 90px;
+    text-align: center;
+    text-decoration: underline;
+}
